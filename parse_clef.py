@@ -1,5 +1,6 @@
 import os
 import os.path
+import unittest
 
 from bs4 import BeautifulSoup
 
@@ -20,25 +21,21 @@ schema = Schema(docid=TEXT(stored=True),
                 alltext=TEXT(stored=True))
 
 
-def parse_clef_files(html_file):
+def parse_files(html_file):
     ndocid = html_file
     soup = BeautifulSoup(open(path+html_file, 'r').read(), "lxml")
     print ndocid
-    if soup.source is not None:
-        print "\n source = "
-        print soup.source
     if soup.title is not None:
         ntitle = soup.title.string
         print ntitle
-    if soup.find({""}) is not None:
-        print soup.timedate
-    ncontent = soup.findAll(text=True)
+    [s.extract() for s in soup(['style', 'script', '[document]', 'head', 'title'])]
+    ncontent = soup.getText()
     print ncontent
-    nalltext = soup.get_text()
+    nalltext = ntitle + ncontent
 
 
 for html_file in html_files:
-    parse_clef_files(html_file)
+    parse_files(html_file)
     print "NEXT FILE\n"
 
 
