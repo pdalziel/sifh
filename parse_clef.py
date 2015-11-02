@@ -44,6 +44,7 @@ def create_index():
         parse_files(html_file)
     writer.commit()
 
+
 create_index()
 print ix
 
