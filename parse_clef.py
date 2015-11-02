@@ -1,14 +1,12 @@
 import os
 import os.path
-import unittest
+
 
 from bs4 import BeautifulSoup
 
 from whoosh.index import create_in
 from whoosh.analysis import StemmingAnalyzer
 from whoosh.fields import *
-from whoosh.query import *
-from whoosh.qparser import QueryParser
 
 path = u"./clef_small_sample/" #local path to single desktop file
 #path = "./clef2015-sample/" #local path to desktop files
@@ -28,9 +26,6 @@ if not os.path.exists("index"):
 # whoosh variables
 ix = create_in("index", schema)
 writer = ix.writer()
-#searcher = ix.searcher()
-#qp = QueryParser("content", schema=ix.schema)
-#q = qp.parse(u" a ")
 
 
 def parse_files(html_file):
@@ -51,8 +46,4 @@ def create_index():
 
 create_index()
 print ix
-
-#with ix.searcher() as searcher:
-#    results = searcher.search(q)
-#    print results
 
