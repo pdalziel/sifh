@@ -11,10 +11,11 @@ path_to_index = "./index"
 ix = index.open_dir(path_to_index)
 
 searcher = ix.searcher()
-qp = QueryParser("content", schema=ix.schema)
-q = qp.parse(u"doctor")
+qp = QueryParser("title", schema=ix.schema)
+q = qp.parse(u"health")
 
 with ix.searcher() as searcher:
     results = searcher.search(q)
+    print "finished"
     for r in results:
         print r
