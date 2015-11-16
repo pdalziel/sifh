@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>This is the title</title>
+</head>
+<div class="thisisadiv></div>
+<h2>this is a h2 heading</h2>
+<body>
+  <p>This is some text from the main content
+  of the simple test page</p>
+  </body>
+</html>

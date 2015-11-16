@@ -1,29 +1,21 @@
 import os
 import os.path
-
+import codecs
 
 from bs4 import BeautifulSoup
 from goose import Goose
+from libextract.api import extract
+
+from whoosh import index
 from whoosh.index import create_in
 from whoosh.analysis import StemmingAnalyzer
-from whoosh.fields import *
+from whoosh.fields import Schema, TEXT, ID
 
 path = "./clef_small_sample/" #local path to single desktop file
 #path = "./clef2015-sample/" #local path to desktop files
-
-
 html_files = os.listdir(path)
+
 stemmer = StemmingAnalyzer()
-
-
-for clef_file in html_files:
-
-    print path+clef_file
-    g = Goose()
-    article = g.extract(url=path+clef_file)
-    content_block = article.cleaned_text[:150]
-    print content_block
-
 schema = Schema(docid=TEXT(stored=True),
                 title=TEXT(analyzer=stemmer, stored=True),
                 content=TEXT(analyzer=stemmer, stored=True),
@@ -31,33 +23,31 @@ schema = Schema(docid=TEXT(stored=True),
                 source=TEXT(stored=True),
                 alltext=TEXT(stored=True))
 
+ix = create_in("index", schema)
+writer = ix.writer()
+
 if not os.path.exists("index"):
     os.mkdir("index")
 
-# whoosh variables
-#ix = create_in("index", schema)
-#writer = ix.writer()
+
+def create_index():
+    for html_file in html_files:
+        ndocid = html_file
+        with codecs.open(path+html_file, 'r', "utf-8") as f:
+            html = f.read()
+            g = Goose()
+            article = g.extract(raw_html=html)
+            ncontent = article.cleaned_text
+            if article.title is not None:
+                ntitle = article.title
+            nalltext = extract_all_text(html)
+            writer.add_document(docid=ndocid, title=ntitle, content=ncontent, alltext=nalltext)
+    writer.commit()
 
 
-# def parse_files(html_file):
-#     ndocid = html_file
-#     soup = BeautifulSoup(open(path+html_file, 'r').read(), "lxml")
-#     print soup
-#     if soup.title is not None:
-#         ntitle = soup.title.string
-#
-#     #[s.extract() for s in soup(['style', 'script', '[document]', 'head', 'title'])]
-#     ncontent = extract_content_block(soup)
-#     nalltext = ntitle + ncontent
-#     print nalltext
-#     writer.add_document(docid=ndocid, title=ntitle, content=ncontent, alltext=nalltext)
-#
-#
-# def create_index():
-#     for html_file in html_files:
-#         #parse_files(html_file)
-#         extract_content_block(html_file)
-#     writer.commit()
+def extract_all_text(html):
+    textnodes = list(extract(html))
+    text_str = ''.join(str(e.text_content()) for e in textnodes)
+    return text_str
 
-
-
+create_index()

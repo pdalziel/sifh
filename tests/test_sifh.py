@@ -1,22 +1,17 @@
-__author__ = 'paul'
-import unittest
+from .fixtures import test_file
+from libextract.api import extract, pipeline, select, measure, rank, finalise
+from goose import Goose
 
 
-class TestBlock(unittest.TestCase):
-    def test_parsing(self):
-        self.failUnless(False)
+def test_extract(test_file):
+    r = extract(test_file)
+    u = [node.tag for node in r]
+    assert u == [
+        'article',
+        'body',
+    ]
 
-    def test_block_content_extraction(self):
-        self.failUnless(False)
 
-    def test_index_creation(self):
-        self.failUnless(False)
-
-    def test_query_generation(self):
-        self.failUnless(False)
-
-def main():
-    unittest.main()
-
-if __name__ == '__main__':
-    main()
+def test_goose_extract(test_file):
+    g = Goose
+    article = g.extract(raw_html=test_file)
