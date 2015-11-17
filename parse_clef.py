@@ -40,14 +40,15 @@ def create_index():
             ncontent = article.cleaned_text
             if article.title is not None:
                 ntitle = article.title
-            nalltext = extract_all_text(html)
-            writer.add_document(docid=ndocid, title=ntitle, content=ncontent, alltext=nalltext)
-    writer.commit()
+                print ntitle
+            print extract_all_text(html)
+            # writer.add_document(docid=ndocid, title=ntitle, content=ncontent)
+    # writer.commit()
 
 
 def extract_all_text(html):
     textnodes = list(extract(html))
-    text_str = ''.join(str(e.text_content()) for e in textnodes)
-    return text_str
+    text_str = ''.join((e.text_content().encode('utf-8')) for e in textnodes)
+    return text_str.strip('  ')
 
 create_index()

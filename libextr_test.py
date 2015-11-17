@@ -7,17 +7,14 @@ from goose import Goose
 import nltk
 
 
-path = "./clef_small_sample/yourh5013_12_020483" #local path to single desktop file
+path = "./clef_small_sample/" #local path to single desktop file
 #path = "./clef2015-sample/" #local path to desktop files
-html = open(path,'r').read()
-
-g = Goose()
-article = g.extract(raw_html=html)
-
-print article.cleaned_text
-
-textnodes = list(extract(html))
-i=0
-for node in textnodes:
-    print str(i) + " " + node.text_content()
-    i += 1
+file_list = os.listdir(path)
+for f in file_list:
+    html = open(path+f, 'r').read()
+    g = Goose()
+    article = g.extract(raw_html=html)
+    # print article.cleaned_text
+    textnodes = list(extract(html))
+    text_str = ''.join((e.text_content().encode('utf-8')) for e in textnodes)
+    print text_str
