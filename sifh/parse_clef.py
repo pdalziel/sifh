@@ -16,12 +16,7 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 logging.basicConfig(filename='sifh.log', level=logging.DEBUG)
-
-path = "./clef_small_sample/" #local path to single desktop file
-#path = "./clef2015-sample/" #local path to desktop files
-
-html_files = os.listdir(path)
-print html_files
+log = logging.getLogger('logger')
 
 stemmer = StemmingAnalyzer()
 schema = Schema(docid=TEXT(stored=True),
@@ -31,25 +26,47 @@ schema = Schema(docid=TEXT(stored=True),
                 source=TEXT(stored=True),
                 alltext=TEXT(stored=True))
 
+
 ix = create_in("index", schema)
 writer = ix.writer()
+path = "./clef_small_sample/" #local path to single desktop file
+# path = "./clef2015-sample/" #local path to desktop files
 
-if not os.path.exists("index"):
-    os.mkdir("index")
+
+def make_file_list():
+    html_files = os.listdir(path)
+    log.debug(html_files)
+    return html_files
+
+
+def mkdir_index():
+    if not os.path.exists("index"):
+        log.info('creating index')
+        os.mkdir("index")
 
 
 def create_index():
+    html_files = make_file_list()
     for html_file in html_files:
         ndocid = unicode(html_file)
-        html = open(path+html_file, 'r').read()
+        html = open(path + html_file, 'r').read()
         nalltext = extract_all_text(html)
-        g = Goose()
-        article = g.extract(raw_html=html)
-        ncontent = article.cleaned_text
-        if article.title is not None:
-            ntitle = article.title
+        article = goose_extract(html)
+        ncontent = extract_main_text(article)
+        ntitle = extract_title(article)
         writer.add_document(docid=ndocid, title=ntitle, content=ncontent, alltext=nalltext)
+        log.info('added ' + ndocid)
     writer.commit()
+
+
+def extract_main_text(article):
+    return article.cleaned_text
+
+
+def extract_title(article):
+    if article.title is not None:
+            title = article.title
+    return title
 
 
 def extract_all_text(html):
@@ -58,7 +75,15 @@ def extract_all_text(html):
     return unicode(text_str.strip('  '))
 
 
+def goose_extract(html):
+    g = Goose()
+    article = g.extract(raw_html=html)
+    log.debug(article)
+    return article
+
+
 def main(argv):
+    mkdir_index()
     create_index()
 
 if __name__ == "__main__":
