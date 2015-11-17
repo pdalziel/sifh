@@ -1,0 +1,263 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head id="Head1">
+  <title>	Your Health Newsletters</title>
+  <link type="text/css" href="Scripts/Style.css" rel="stylesheet" />
+ </head>
+ <body style="background-image: url(images/bg.jpg); text-align:center; background-repeat: repeat-x; background-color: #374C5F;"> 
+  <div id="survey"></div> 
+  <form name="form2" method="post" action="Practice.aspx?id=152Article=218" id="form2">
+   <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTM4MzIzODM4DxYCHgVBbGlhcwUIbGFuZ2ZvcmQWAgIFD2QWAgIBD2QWAgICD2QWAmYPZBYCZg9kFgJmD2QWAgIBD2QWAmYPZBYEZg9kFgJmD2QWAmYPFgIeCWlubmVyaHRtbAXvATx0YWJsZSBjZWxsc3BhY2luZz0nMCcgY2VsbHBhZGRpbmc9JzAnIGJvcmRlcj0nMCcgID48dHI+PHRkIHZhbGlnbj0nYm90dG9tJyBjbGFzcz0nYmFubmVyJyAgU3R5bGU9J2JhY2tncm91bmQtcmVwZWF0Om5vLXJlcGVhdDtiYWNrZ3JvdW5kLWltYWdlOiB1cmwoaW1hZ2VzL2Jhbm5lcjEuanBnKTsnPjxkaXYgaWQ9J1ByYWN0aWNlTmFtZSc+TGFuZ2ZvcmQgTWVkaWNhbDwvZGl2PjwvdGQ+PC90cj48L3RhYmxlPjxici8+ZAIBD2QWBmYPZBYEZg8WAh8BBZ0MPHRhYmxlIGNlbGxzcGFjaW5nPScwJyBjZWxscGFkZGluZz0nMCcgYm9yZGVyPScwJyB3aWR0aD0nMTM1Jz48dHI+PHRkIHdpZHRoJzE1JyB2YWxpZ249J3RvcCcgc3R5bGU9J3BhZGRpbmctdG9wOjVweDsnPjxpbWcgc3JjPSdpbWFnZXMvYXJyb3cuanBnJyBhbHQ9JycgLz48L3RkPjx0ZCB3aWR0aD0nMTIwJz48YSBocmVmPSdQcmFjdGljZS5hc3B4P2lkPTE1MicgY2xhc3M9J1N1Yk1lbnUnPkhvbWU8L2E+PC90ZD48L3RyPjx0cj48dGQgY29sc3Bhbj0nMicgaGVpZ2h0PScyNScgdmFsaWduPSdib3R0b20nPjxmb250IGNvbG9yPScjRUU2QTEyJz48Yj5IZWFsdGggUmVzb3VyY2VzPC9iPjwvZm9udD48L3RkPjwvdHI+PHRyPjx0ZCBjb2xzcGFuPScyJz48aW1nIHNyYz0naW1hZ2VzL2Fycm93LmpwZycgYWx0PScnIC8+Jm5ic3A7Jm5ic3A7PGEgaHJlZj0nL1ByYWN0aWNlX0NhdGVnb3JpZXMuYXNweD9pZD0xNTInIGNsYXNzPSdTdWJNZW51Jz5BLVogaGVhbHRoIHRvcGljczwvYT48L3RkPjwvdHI+PHRyPjx0ZCBjb2xzcGFuPScyJz48aW1nIHNyYz0naW1hZ2VzL2Fycm93LmpwZycgYWx0PScnIC8+Jm5ic3A7Jm5ic3A7PGEgaHJlZj0nL1ByYWN0aWNlLmFzcHg/UGFnZT04MyZPdGhlcj15ZXMmaWQ9MTUyJyBjbGFzcz0nU3ViTWVudSc+SGVhbHRoIGxpbmtzPC9hPjwvdGQ+PC90cj48dHI+PHRkIGNvbHNwYW49JzInPjxpbWcgc3JjPSdpbWFnZXMvYXJyb3cuanBnJyBhbHQ9JycgLz4mbmJzcDsmbmJzcDs8YSBocmVmPScvUHJhY3RpY2UuYXNweD9QYWdlPTEwNSZPdGhlcj15ZXMmaWQ9MTUyJyBjbGFzcz0nU3ViTWVudSc+R3VpZGUgdG8gbWVkaWNpbmVzPC9hPjwvdGQ+PC90cj48dHI+PHRkIGNvbHNwYW49JzInPjxpbWcgc3JjPSdpbWFnZXMvYXJyb3cuanBnJyBhbHQ9JycgLz4mbmJzcDsmbmJzcDs8YSBocmVmPSdodHRwOi8vd3d3LnZpcnR1YWxtZWRpY2FsY2VudHJlLmNvbS9NZWRpY2FsX0RpY3Rpb25hcnkuYXNwJyB0YXJnZXQ9J19CbGFuaycgY2xhc3M9J1N1Yk1lbnUnPk1lZGljYWwgZGljdGlvbmFyeTwvYT48L3RkPjwvdHI+PHRyPjx0ZCBjb2xzcGFuPScyJz48aW1nIHNyYz0naW1hZ2VzL2Fycm93LmpwZycgYWx0PScnIC8+Jm5ic3A7Jm5ic3A7PGEgaHJlZj0nL1ByYWN0aWNlLmFzcHg/UGFnZT0xMDYmT3RoZXI9eWVzJmlkPTE1MicgY2xhc3M9J1N1Yk1lbnUnPlRvb2xzICsgY2FsY3VsYXRvcnM8L2E+PC90ZD48L3RyPjx0cj48dGQgY29sc3Bhbj0nMic+PGltZyBzcmM9J2ltYWdlcy9hcnJvdy5qcGcnIGFsdD0nJyAvPiZuYnNwOyZuYnNwOzxhIGhyZWY9Jy9QcmFjdGljZS5hc3B4P1BhZ2U9MTA3Jk90aGVyPXllcyZpZD0xNTInIGNsYXNzPSdTdWJNZW51Jz5IZWFsdGh5IHJlY2lwZXM8L2E+PC90ZD48L3RyPjx0cj48dGQgY29sc3Bhbj0nMic+PGltZyBzcmM9J2ltYWdlcy9hcnJvdy5qcGcnIGFsdD0nJyAvPiZuYnNwOyZuYnNwOzxhIGhyZWY9J2h0dHA6Ly93d3cubXlkci5jb20uYXUvc3VwcG9ydC9zdXBwb3J0LmFzcCcgdGFyZ2V0PSdfQmxhbmsnIGNsYXNzPSdTdWJNZW51Jz5TdXBwb3J0IGdyb3VwczwvYT48L3RkPjwvdHI+PC90YWJsZT5kAgIPFgIfAQXfCQ0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Zm9udCBjb2xvcj0iI0VFNkExMiI+PGI+WW91ciBIZWFsdGg8L2I+PC9mb250PjxiciAvPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSdpbWFnZXMvYXJyb3cuanBnJyBhbHQ9JycgLz4mbmJzcDsmbmJzcDs8YSBocmVmPScvUHJhY3RpY2UuYXNweD9QYWdlPTcyJk90aGVyPXllcyZpZD0xNTInIGNsYXNzPSdTdWJNZW51Jz5Qcml6ZSB3aW5uZXJzPC9hPjxiciAvPjxpbWcgc3JjPSdpbWFnZXMvYXJyb3cuanBnJyBhbHQ9JycgLz4mbmJzcDsmbmJzcDs8YSBocmVmPScvUHJhY3RpY2UuYXNweD9QYWdlPTcwJk90aGVyPXllcyZpZD0xNTInIGNsYXNzPSdTdWJNZW51Jz5BYm91dCBZb3VyIEhlYWx0aDwvYT48YnIgLz48aW1nIHNyYz0naW1hZ2VzL2Fycm93LmpwZycgYWx0PScnIC8+Jm5ic3A7Jm5ic3A7PGEgaHJlZj0nL1NlY3VyZUFyZWEuYXNweCcgY2xhc3M9J1N1Yk1lbnUnPkFkbWluIGxvZ2luPC9hPjxiciAvPjxiciAvPjxiciAvPjxjZW50ZXI+PHRhYmxlIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGluZz0iMyIgYm9yZGVyPSIwIj4gPHRyPiA8dGQ+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cHM6Ly93d3cuaG9uLmNoL0hPTmNvZGUvU2VhbGpzL0hPTmNvbmR1Y3QvSE9OQ29uZHVjdDk4NjcyMi5qcyI+IDwvc2NyaXB0PiA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+IHByaW50X2hvbmNvZGVfbG9nbyg0LDEpOyA8L3NjcmlwdD48L3RkPiA8dGQgYWxpZ249ImxlZnQiIHN0eWxlPSJ3aWR0aDo4MHB4OyBmb250LXNpemU6IDlweDsiID5XZSBjb21wbHkgd2l0aCB0aGUgPGEgaHJlZj0iaHR0cDovL3d3dy5ob24uY2gvSE9OY29kZS9Db25kdWN0Lmh0bWwiIG9uY2xpY2s9IndpbmRvdy5vcGVuKHRoaXMuaHJlZik7IHJldHVybiBmYWxzZTsiIHN0eWxlPSJmb250LXNpemU6IDlweDsiPiBIT05jb2RlIHN0YW5kYXJkIGZvciB0cnVzdHdvcnRoeSBoZWFsdGg8L2E+IGluZm8uPGJyIC8+IDxhIGhyZWY9Imh0dHBzOi8vd3d3Lmhvbi5jaC9IT05jb2RlL0NvbmR1Y3QuaHRtbD9IT05Db25kdWN0OTg2NzIyIiBvbmNsaWNrPSJ3aW5kb3cub3Blbih0aGlzLmhyZWYpOyByZXR1cm4gZmFsc2U7IiBzdHlsZT0iZm9udC1zaXplOiA5cHg7Ij5WZXJpZnkgaGVyZTwvYT4uIDwvdGQ+IDwvdHI+IDwvdGFibGU+PC9jZW50ZXI+PGJyIC8+PGJyIC8+ZAIBD2QWAmYPZBYEZg9kFgJmD2QWAmYPFgIfAQUiPEgyPkl0J3MgeW91ciB0dXJuIHRvIGdldCB1cCE8L0gyPmQCAQ9kFgJmD2QWAmYPFgIfAQWhFDxzcGFuIGNsYXNzPSJDb2RlIj4NCjxwPk1vc3QgcGFyZW50cyB3aXNoIHRoYXQgdGhlaXIgY2hpbGQgd291bGQgZ28gdG8gYmVkIGF0IDcgbydjbG9jaywgc2xlZXAgc291bmRseSBhbGwgbmlnaHQgYW5kIHdha2UgdXAgY2hlZXJmdWxseSBhdCA4IGluIHRoZSBtb3JuaW5nLiBVbmZvcnR1bmF0ZWx5LCBtb3N0IGNoaWxkcmVuIGhhdmUgb3RoZXIgaWRlYXMhPC9wPg0KPHA+PHN0cm9uZz48Zm9udCBzaXplPSIyIj5EaWZmaWN1bHR5IGdldHRpbmcgdG8gc2xlZXA8L2ZvbnQ+PC9zdHJvbmc+PC9wPg0KPHA+U29tZXRpbWVzIGEgY2hpbGQgaXMgaGF2aW5nIHRvbyBtdWNoIHNsZWVwIGluIGRheXRpbWUgbmFwcy4gTW9zdCBpbmZhbnRzIG5lZWQgMiBuYXBzIGJ5IDYgbW9udGhzIGJ1dCBvbmx5IGEgc2luZ2xlIG5hcCBiZXR3ZWVuIDEtMyB5ZWFycy4gQWxzbywgdG9vIG11Y2ggZXhjaXRlbWVudCBvciBhIGJ1c3kgZGF5LCBjYW4gbGVhdmUgYSBjaGlsZCB3b3VuZCB1cCBiZWZvcmUgYmVkLiBUcnkgdGhlc2UgaWRlYXM6Jm5ic3A7PC9wPg0KPHVsPg0KICAgIDxsaT5TZXQgYSBiZWR0aW1lIGFuZCBzdGljayB0byBpdC48L2xpPg0KICAgIDxsaT5NYWtlIGRheXRpbWUgbmFwcyBzaG9ydGVyIG9yIGVhcmxpZXIuPC9saT4NCiAgICA8bGk+VXNlIGEgcmVsYXhpbmcgYmVkdGltZSByb3V0aW5lIGV2ZXJ5IG5pZ2h0LCBzdWNoIGFzIGRpbm5lciwgYmF0aCwgcmVhZGluZyBhIHN0b3J5LCB0b2lsZXQsIGJydXNoaW5nIHRlZXRoIGFuZCBiZWQuJm5ic3A7PC9saT4NCiAgICA8bGk+VHJ5IGEgbmlnaHQgbGlnaHQsIGNvbWZvcnQgdG95IG9yIHNvZnQgbXVzaWMgYW5kIGxlYXZlIHRoZSBkb29yIG9wZW4uPC9saT4NCjwvdWw+DQo8cD5Db25zaWRlciAnY29udHJvbGxlZCBjcnlpbmcnLiBHbyBiYWNrIGluIHRvIHRoZSByb29tIHdoZW4gdGhlIGNoaWxkIGNyaWVzLCBjb21mb3J0IGhpbS9oZXIgYnJpZWZseSBhbmQgbGVhdmUgYWdhaW4uIFdpdGggZnVydGhlciBjcnlpbmcsIGdvIGJhY2sgYXQgcHJvZ3Jlc3NpdmVseSBsb25nZXIgaW50ZXJ2YWxzIHVudGlsIHRoZSBjaGlsZCBkcm9wcyBvZmYgdG8gc2xlZXAuIENvbnRyb2xsZWQgY3J5aW5nIHdvcmtzIGluIHVwIHRvIDkwJSBvZiBjYXNlcywgdXN1YWxseSB3aXRoaW4gYSBmZXcgZGF5cywgYW5kIGNhbiBiZSB1c2VkIGZyb20gNiBtb250aHMuPC9wPg0KPHA+PHN0cm9uZz48Zm9udCBzaXplPSIyIj5OaWdodCB3YWtpbmc8L2ZvbnQ+PC9zdHJvbmc+PC9wPg0KPHA+TmlnaHQgd2FraW5nIGlzIGEgY29tbW9uIHByb2JsZW0gaW4gcHJlLXNjaG9vbGVycy4gQnkgMTIgbW9udGhzLCA0MCUgb2YgY2hpbGRyZW4gYXJlIHNsZWVwaW5nIHRocm91Z2gsIDUwJSBhcmUgd2FraW5nIG9uY2Ugb3IgdHdpY2UgYW5kIDEwJSBhcmUgd2FraW5nIDMtNCB0aW1lcyBwZXIgbmlnaHQuIEJldHdlZW4gMiBhbmQgMyB5ZWFycywgNDAlIGFyZSB3YWtpbmcgb25jZSBvciB0d2ljZS4gQnkgMyBvciA0LCBtb3N0IGNoaWxkcmVuIGhhdmUgZ3Jvd24gb3V0IG9mIGl0LjwvcD4NCjxwPk1ha2Ugc3VyZSB5b3VyIGNoaWxkIGRvZXMgbm90IGhhdmUgcGFpbiBvciBkaXNjb21mb3J0LiBJZiB5b3UgYXJlIGNvbmNlcm5lZCwgc2VlIHlvdXIgZG9jdG9yLiBUaGVuIHRyeSB0aGVzZSBzdHJhdGVnaWVzOjwvcD4NCjx1bD4NCiAgICA8bGk+QmUgY29tZm9ydGluZyBidXQgYm9yaW5nLiBOaWdodCB0aW1lIGlzIG5vdCBmb3IgZ2FtZXMgb3Igc3RpbXVsYXRpb24uPC9saT4NCiAgICA8bGk+VHJ5IG5vdCB0byBwaWNrIHVwIG9yIGZlZWQgdGhlIGNoaWxkLjwvbGk+DQogICAgPGxpPlNvbWV0aW1lcyBwYXJlbnRzIHB1dCBhIGNoaWxkIGluIHRoZWlyIGJlZC4gVGhpcyBjYW4gYmUgYSBoYXJkIGhhYml0IHRvIGJyZWFrLjwvbGk+DQogICAgPGxpPlVzZSBjb250cm9sbGVkIGNyeWluZyAoc2VlIGFib3ZlKS48L2xpPg0KPC91bD4NCjxwPlZpc2l0OiA8YSBocmVmPSJodHRwOi8vd3d3LnBhcmVudGluZy5uc3cuZ292LmF1LyI+d3d3LnBhcmVudGluZy5uc3cuZ292LmF1PC9hPi48L3A+DQo8L3NwYW4+PGJyIC8+PGJyIC8+PGZvbnQgc2l6ZT0nMSc+U291cmNlOiBXaW50ZXIgMjAwMyBFZGl0aW9uIHwgUGFnZSA0PGJyIC8+PGJyIC8+PGEgaHJlZj0nRW1haWxGcmllbmQuYXNweD9hcnRpY2xlPTIxOCZwcmFjdGljZT0xNTInIG9uY2xpY2s9IndpbmRvdy5vcGVuKHRoaXMuaHJlZiwnJywncmVzaXphYmxlPW5vLGxvY2F0aW9uPW5vLG1lbnViYXI9bm8sc2Nyb2xsYmFycz15ZXMsc3RhdHVzPW5vLHRvb2xiYXI9bm8sZnVsbHNjcmVlbj1ubyxkZXBlbmRlbnQ9bm8sd2lkdGg9NTUwLGhlaWdodD02MDAsc3RhdHVzJyk7IHJldHVybiBmYWxzZSIgPjxpbWcgc3JjPSdpbWFnZXMvZW1haWwuZ2lmJyBhbHQ9JycgYm9yZGVyPScwJyAvPiBFbWFpbCB0byBhIGZyaWVuZDwvYT4gJm5ic3A7Jm5ic3A7IDxhIGhyZWY9J1ByaW50YWJsZS5hc3B4P2lkPTIxOCZQcmFjdGljZT0xNTInIHRhcmdldD0nX2JsYW5rJz48aW1nIHNyYz0naW1hZ2VzL3ByaW50LmdpZicgYWx0PScnIGJvcmRlcj0nMCcgLz4gUHJpbnRlciBGcmllbmRseSBWZXJzaW9uPC9hPjwvZm9udD48YnIgLz48YnIgLz5kAgIPZBYCZg9kFgQCAQ9kFgJmD2QWAmYPZBYCAgEPFgIfAQWkEjx0YWJsZT48dHI+PHRkPjxhIGhyZWY9J1ByYWN0aWNlX0NhdGVnb3JpZXMuYXNweD9pZD0xNTImQ2F0ZWdvcnk9QSc+PGZvbnQgc2l6ZT0nMSc+QTwvZm9udD48L2E+PC90ZD48dGQ+PGEgaHJlZj0nUHJhY3RpY2VfQ2F0ZWdvcmllcy5hc3B4P2lkPTE1MiZDYXRlZ29yeT1CJz48Zm9udCBzaXplPScxJz5CPC9mb250PjwvYT48L3RkPjx0ZD48YSBocmVmPSdQcmFjdGljZV9DYXRlZ29yaWVzLmFzcHg/aWQ9MTUyJkNhdGVnb3J5PUMnPjxmb250IHNpemU9JzEnPkM8L2ZvbnQ+PC9hPjwvdGQ+PHRkPjxhIGhyZWY9J1ByYWN0aWNlX0NhdGVnb3JpZXMuYXNweD9pZD0xNTImQ2F0ZWdvcnk9RCc+PGZvbnQgc2l6ZT0nMSc+RDwvZm9udD48L2E+PC90ZD48dGQ+PGEgaHJlZj0nUHJhY3RpY2VfQ2F0ZWdvcmllcy5hc3B4P2lkPTE1MiZDYXRlZ29yeT1FJz48Zm9udCBzaXplPScxJz5FPC9mb250PjwvYT48L3RkPjx0ZD48YSBocmVmPSdQcmFjdGljZV9DYXRlZ29yaWVzLmFzcHg/aWQ9MTUyJkNhdGVnb3J5PUYnPjxmb250IHNpemU9JzEnPkY8L2ZvbnQ+PC9hPjwvdGQ+PHRkPjxhIGhyZWY9J1ByYWN0aWNlX0NhdGVnb3JpZXMuYXNweD9pZD0xNTImQ2F0ZWdvcnk9Ryc+PGZvbnQgc2l6ZT0nMSc+RzwvZm9udD48L2E+PC90ZD48dGQ+PGEgaHJlZj0nUHJhY3RpY2VfQ2F0ZWdvcmllcy5hc3B4P2lkPTE1MiZDYXRlZ29yeT1IJz48Zm9udCBzaXplPScxJz5IPC9mb250PjwvYT48L3RkPjx0ZD48YSBocmVmPSdQcmFjdGljZV9DYXRlZ29yaWVzLmFzcHg/aWQ9MTUyJkNhdGVnb3J5PUknPjxmb250IHNpemU9JzEnPkk8L2ZvbnQ+PC9hPjwvdGQ+PHRkPjxhIGhyZWY9J1ByYWN0aWNlX0NhdGVnb3JpZXMuYXNweD9pZD0xNTImQ2F0ZWdvcnk9Sic+PGZvbnQgc2l6ZT0nMSc+SjwvZm9udD48L2E+PC90ZD48dGQ+PGEgaHJlZj0nUHJhY3RpY2VfQ2F0ZWdvcmllcy5hc3B4P2lkPTE1MiZDYXRlZ29yeT1LJz48Zm9udCBzaXplPScxJz5LPC9mb250PjwvYT48L3RkPjx0ZD48YSBocmVmPSdQcmFjdGljZV9DYXRlZ29yaWVzLmFzcHg/aWQ9MTUyJkNhdGVnb3J5PUwnPjxmb250IHNpemU9JzEnPkw8L2ZvbnQ+PC9hPjwvdGQ+PHRkPjxhIGhyZWY9J1ByYWN0aWNlX0NhdGVnb3JpZXMuYXNweD9pZD0xNTImQ2F0ZWdvcnk9TSc+PGZvbnQgc2l6ZT0nMSc+TTwvZm9udD48L2E+PC90ZD48L3RyPjx0cj48dGQ+PGEgaHJlZj0nUHJhY3RpY2VfQ2F0ZWdvcmllcy5hc3B4P2lkPTE1MiZDYXRlZ29yeT1OJz48Zm9udCBzaXplPScxJz5OPC9mb250PjwvYT48L3RkPjx0ZD48YSBocmVmPSdQcmFjdGljZV9DYXRlZ29yaWVzLmFzcHg/aWQ9MTUyJkNhdGVnb3J5PU8nPjxmb250IHNpemU9JzEnPk88L2ZvbnQ+PC9hPjwvdGQ+PHRkPjxhIGhyZWY9J1ByYWN0aWNlX0NhdGVnb3JpZXMuYXNweD9pZD0xNTImQ2F0ZWdvcnk9UCc+PGZvbnQgc2l6ZT0nMSc+UDwvZm9udD48L2E+PC90ZD48dGQ+PGEgaHJlZj0nUHJhY3RpY2VfQ2F0ZWdvcmllcy5hc3B4P2lkPTE1MiZDYXRlZ29yeT1RJz48Zm9udCBzaXplPScxJz5RPC9mb250PjwvYT48L3RkPjx0ZD48YSBocmVmPSdQcmFjdGljZV9DYXRlZ29yaWVzLmFzcHg/aWQ9MTUyJkNhdGVnb3J5PVInPjxmb250IHNpemU9JzEnPlI8L2ZvbnQ+PC9hPjwvdGQ+PHRkPjxhIGhyZWY9J1ByYWN0aWNlX0NhdGVnb3JpZXMuYXNweD9pZD0xNTImQ2F0ZWdvcnk9Uyc+PGZvbnQgc2l6ZT0nMSc+UzwvZm9udD48L2E+PC90ZD48dGQ+PGEgaHJlZj0nUHJhY3RpY2VfQ2F0ZWdvcmllcy5hc3B4P2lkPTE1MiZDYXRlZ29yeT1UJz48Zm9udCBzaXplPScxJz5UPC9mb250PjwvYT48L3RkPjx0ZD48YSBocmVmPSdQcmFjdGljZV9DYXRlZ29yaWVzLmFzcHg/aWQ9MTUyJkNhdGVnb3J5PVUnPjxmb250IHNpemU9JzEnPlU8L2ZvbnQ+PC9hPjwvdGQ+PHRkPjxhIGhyZWY9J1ByYWN0aWNlX0NhdGVnb3JpZXMuYXNweD9pZD0xNTImQ2F0ZWdvcnk9Vic+PGZvbnQgc2l6ZT0nMSc+VjwvZm9udD48L2E+PC90ZD48dGQ+PGEgaHJlZj0nUHJhY3RpY2VfQ2F0ZWdvcmllcy5hc3B4P2lkPTE1MiZDYXRlZ29yeT1XJz48Zm9udCBzaXplPScxJz5XPC9mb250PjwvYT48L3RkPjx0ZD48YSBocmVmPSdQcmFjdGljZV9DYXRlZ29yaWVzLmFzcHg/aWQ9MTUyJkNhdGVnb3J5PVgnPjxmb250IHNpemU9JzEnPlg8L2ZvbnQ+PC9hPjwvdGQ+PHRkPjxhIGhyZWY9J1ByYWN0aWNlX0NhdGVnb3JpZXMuYXNweD9pZD0xNTImQ2F0ZWdvcnk9WSc+PGZvbnQgc2l6ZT0nMSc+WTwvZm9udD48L2E+PC90ZD48dGQ+PGEgaHJlZj0nUHJhY3RpY2VfQ2F0ZWdvcmllcy5hc3B4P2lkPTE1MiZDYXRlZ29yeT1aJz48Zm9udCBzaXplPScxJz5aPC9hPjwvdGQ+PC90cj48L3RhYmxlPmQCAg9kFgJmD2QWAmYPFgIfAQXmCTx0YWJsZSBjZWxsc3BhY2luZz0iMSIgY2VsbHBhZGRpbmc9IjAiIGJvcmRlcj0iMCI+DQogICAgPHRib2R5Pg0KICAgICAgICA8dHI+DQogICAgICAgICAgICA8dGQgdmFsaWduPSJ0b3AiIGNvbHNwYW49IjIiPjxiciAvPg0KICAgICAgICAgICAgPGJyIC8+DQogICAgICAgICAgICA8aW1nIHdpZHRoPSIxMiIgaGVpZ2h0PSI4IiBhbHQ9IiIgc3JjPSIvVXNlckZpbGVzL0RpYW1vbmQtcG9pbnRlcigyKS5qcGciIC8+IDxzcGFuIGNsYXNzPSJDb2RlIj5BZHZlcnRpc2VtZW50PC9zcGFuPjwvdGQ+DQogICAgICAgIDwvdHI+DQogICAgICAgIDx0cj4NCiAgICAgICAgICAgIDx0ZCB2YWxpZ249InRvcCIgY29sc3Bhbj0iMiI+PGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHA6Ly9oZWFsdGhpbnN1cmFuY2Vjb21wYXJpc29uLmNvbS5hdS95b3VyLWhlYWx0aC8iPjxpbWcgd2lkdGg9IjIwMCIgYm9yZGVyPSIxIiBoZWlnaHQ9IjEzNSIgYWx0PSIiIHNyYz0iL3VzZXJmaWxlcy9IZWFsdGggaW5zdXJhbmNlIGNvbXBhcmlzb24uanBnIiAvPjwvYT48L3RkPg0KICAgICAgICA8L3RyPg0KICAgICAgICA8dHI+DQogICAgICAgICAgICA8dGQgdmFsaWduPSJ0b3AiIGNvbHNwYW49IjIiPiZuYnNwOzxiciAvPg0KICAgICAgICAgICAgJm5ic3A7PC90ZD4NCiAgICAgICAgPC90cj4NCiAgICAgICAgPHRyPg0KICAgICAgICAgICAgPHRkIHZhbGlnbj0iYm90dG9tIiBhbGlnbj0ibGVmdCIgaGVpZ2h0PSIxNSIgY29sc3Bhbj0iMiI+PGltZyB3aWR0aD0iMTIiIGhlaWdodD0iOCIgYWx0PSIiIHNyYz0iL1VzZXJGaWxlcy9EaWFtb25kLXBvaW50ZXIoMikuanBnIiAvPiA8c3BhbiBjbGFzcz0iQ29kZSI+Q29tcGV0aXRpb248L3NwYW4+PC90ZD4NCiAgICAgICAgPC90cj4NCiAgICAgICAgPHRyPg0KICAgICAgICAgICAgPHRkIGNvbHNwYW49IjIiIGJvcmRlcmNvbG9yPSIjMDAwMDAwIj48aW1nIHdpZHRoPSIyMDAiIGJvcmRlcj0iMSIgaGVpZ2h0PSIyMjciIGFsdD0iIiBzcmM9Ii91c2VyZmlsZXMvTGVub3ZvLWJhbm5lci1hZC5qcGciIC8+PGJyIC8+DQogICAgICAgICAgICAmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgPGEgc3R5bGU9J3RleHQtZGVjb3JhdGlvbjpub25lJyBocmVmPSdDb21wZXRpdGlvbi5hc3B4P2lkPTE1Mic+Q2xpY2sgaGVyZSB0byBlbnRlcjwvYT48L3RkPg0KICAgICAgICA8L3RyPg0KICAgIDwvdGJvZHk+DQo8L3RhYmxlPmRktW6zE54S6FvcYm4TTl7OKUi+PQk=" />
+   <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLwxMzZAwL+45rNDAKVgt27CguBv6LIYYS/mrLSjSpw7oj7/wdj" /> 
+   <center> 
+    <table id="Table3" class="X1" cellspacing="0" cellpadding="0" border="0" height="100%"> 
+     <tbody>
+      <tr> 
+       <td class="TDLEFT" align="left" rowspan="2" height="60"> <img src="images/logo.jpg" alt="" width="142" height="52" /><br /> </td>
+       <td align="right" valign="bottom" height="30"> 
+        <div class="MenuText">
+         Healthy advice from your family doctor
+        </div> </td> 
+      </tr>
+      <tr> 
+       <td align="right" height="30"> <img src="images/clear.gif" height="1" width="1" alt="" /><br /> </td> 
+      </tr>
+      <tr> 
+       <td colspan="2" height="100%">
+        <table id="Table4" cellspacing="0" cellpadding="0" border="0" height="100%"> 
+         <tbody>
+          <tr> 
+           <td bgcolor="White" width="1"> <img src="images/clear.gif" height="1" width="1" alt="" /><br /> </td>
+           <td align="left" bgcolor="White">
+            <table id="Table2" cellspacing="0" cellpadding="0" border="0"> 
+             <tbody>
+              <tr> 
+               <td valign="bottom" colspan="3">
+                <div id="Banner">
+                 <table cellspacing="0" cellpadding="0" border="0">
+                  <tbody>
+                   <tr>
+                    <td valign="bottom" class="banner" style="background-repeat:no-repeat;background-image: url(images/banner1.jpg);">
+                     <div id="PracticeName">
+                      Langford Medical
+                     </div></td>
+                   </tr>
+                  </tbody>
+                 </table>
+                 <br />
+                </div></td> 
+              </tr>
+              <tr> 
+               <td align="left" valign="top" height="300" width="150" style="border-right: solid 1px #E3E5E7">
+                <div id="MenuLeft">
+                 <table cellspacing="0" cellpadding="0" border="0" width="135">
+                  <tbody>
+                   <tr>
+                    <td width'15'="" valign="top" style="padding-top:5px;"><img src="images/arrow.jpg" alt="" /></td>
+                    <td width="120"><a href="Practice.aspx?id=152" class="SubMenu">Home</a></td>
+                   </tr>
+                   <tr>
+                    <td colspan="2" height="25" valign="bottom"><font color="#EE6A12"><b>Health Resources</b></font></td>
+                   </tr>
+                   <tr>
+                    <td colspan="2"><img src="images/arrow.jpg" alt="" /><a href="/Practice_Categories.aspx?id=152" class="SubMenu">A-Z health topics</a></td>
+                   </tr>
+                   <tr>
+                    <td colspan="2"><img src="images/arrow.jpg" alt="" /><a href="/Practice.aspx?Page=83Other=yesid=152" class="SubMenu">Health links</a></td>
+                   </tr>
+                   <tr>
+                    <td colspan="2"><img src="images/arrow.jpg" alt="" /><a href="/Practice.aspx?Page=105Other=yesid=152" class="SubMenu">Guide to medicines</a></td>
+                   </tr>
+                   <tr>
+                    <td colspan="2"><img src="images/arrow.jpg" alt="" /><a href="http://www.virtualmedicalcentre.com/Medical_Dictionary.asp" target="_Blank" class="SubMenu">Medical dictionary</a></td>
+                   </tr>
+                   <tr>
+                    <td colspan="2"><img src="images/arrow.jpg" alt="" /><a href="/Practice.aspx?Page=106Other=yesid=152" class="SubMenu">Tools + calculators</a></td>
+                   </tr>
+                   <tr>
+                    <td colspan="2"><img src="images/arrow.jpg" alt="" /><a href="/Practice.aspx?Page=107Other=yesid=152" class="SubMenu">Healthy recipes</a></td>
+                   </tr>
+                   <tr>
+                    <td colspan="2"><img src="images/arrow.jpg" alt="" /><a href="http://www.mydr.com.au/support/support.asp" target="_Blank" class="SubMenu">Support groups</a></td>
+                   </tr>
+                  </tbody>
+                 </table>
+                </div><br /> 
+                <div id="MenuYH"> 
+                 <font color="#EE6A12"><b>Your Health</b></font>
+                 <br /> 
+                 <img src="images/arrow.jpg" alt="" />
+                 <a href="/Practice.aspx?Page=72Other=yesid=152" class="SubMenu">Prize winners</a>
+                 <br />
+                 <img src="images/arrow.jpg" alt="" />
+                 <a href="/Practice.aspx?Page=70Other=yesid=152" class="SubMenu">About Your Health</a>
+                 <br />
+                 <img src="images/arrow.jpg" alt="" />
+                 <a href="/SecureArea.aspx" class="SubMenu">Admin login</a>
+                 <br />
+                 <br />
+                 <br />
+                 <center>
+                  <table cellspacing="0" cellpadding="3" border="0"> 
+                   <tbody>
+                    <tr> 
+                     <td><script type="text/javascript" src="https://www.hon.ch/HONcode/Sealjs/HONconduct/HONConduct986722.js"> </script> <script type="text/javascript"> print_honcode_logo(4,1); </script></td> 
+                     <td align="left" style="width:80px; font-size: 9px;">We comply with the <a href="http://www.hon.ch/HONcode/Conduct.html" onclick="window.open(this.href); return false;" style="font-size: 9px;"> HONcode standard for trustworthy health</a> info.<br /> <a href="https://www.hon.ch/HONcode/Conduct.html?HONConduct986722" onclick="window.open(this.href); return false;" style="font-size: 9px;">Verify here</a>. </td> 
+                    </tr> 
+                   </tbody>
+                  </table>
+                 </center>
+                 <br />
+                 <br />
+                </div></td>
+               <td class="TDMIDDLE" align="left" valign="top">
+                <table id="Table5" cellspacing="0" cellpadding="0" border="0" style="width:100%;border-collapse:collapse;"> 
+                 <tbody>
+                  <tr> 
+                   <td valign="bottom" height="21">
+                    <div id="Title" style="border-bottom: solid 1px #E3E5E7">
+                     <h2>It's your turn to get up!</h2>
+                    </div></td> 
+                  </tr>
+                  <tr> 
+                   <td>
+                    <div id="Details">
+                     <span class="Code"><p>Most parents wish that their child would go to bed at 7 o'clock, sleep soundly all night and wake up cheerfully at 8 in the morning. Unfortunately, most children have other ideas!</p><p><strong><font size="2">Difficulty getting to sleep</font></strong></p><p>Sometimes a child is having too much sleep in daytime naps. Most infants need 2 naps by 6 months but only a single nap between 1-3 years. Also, too much excitement or a busy day, can leave a child wound up before bed. Try these ideas:</p>
+                      <ul> 
+                       <li>Set a bedtime and stick to it.</li> 
+                       <li>Make daytime naps shorter or earlier.</li> 
+                       <li>Use a relaxing bedtime routine every night, such as dinner, bath, reading a story, toilet, brushing teeth and bed.</li> 
+                       <li>Try a night light, comfort toy or soft music and leave the door open.</li>
+                      </ul><p>Consider 'controlled crying'. Go back in to the room when the child cries, comfort him/her briefly and leave again. With further crying, go back at progressively longer intervals until the child drops off to sleep. Controlled crying works in up to 90% of cases, usually within a few days, and can be used from 6 months.</p><p><strong><font size="2">Night waking</font></strong></p><p>Night waking is a common problem in pre-schoolers. By 12 months, 40% of children are sleeping through, 50% are waking once or twice and 10% are waking 3-4 times per night. Between 2 and 3 years, 40% are waking once or twice. By 3 or 4, most children have grown out of it.</p><p>Make sure your child does not have pain or discomfort. If you are concerned, see your doctor. Then try these strategies:</p>
+                      <ul> 
+                       <li>Be comforting but boring. Night time is not for games or stimulation.</li> 
+                       <li>Try not to pick up or feed the child.</li> 
+                       <li>Sometimes parents put a child in their bed. This can be a hard habit to break.</li> 
+                       <li>Use controlled crying (see above).</li>
+                      </ul><p>Visit: <a href="http://www.parenting.nsw.gov.au/">www.parenting.nsw.gov.au</a>.</p></span>
+                     <br />
+                     <br />
+                     <font size="1">Source: Winter 2003 Edition | Page 4<br /><br /><a href="EmailFriend.aspx?article=218practice=152" onclick="window.open(this.href,'','resizable=no,location=no,menubar=no,scrollbars=yes,status=no,toolbar=no,fullscreen=no,dependent=no,width=550,height=600,status'); return false"><img src="images/email.gif" alt="" border="0" /> Email to a friend</a>  <a href="Printable.aspx?id=218Practice=152" target="_blank"><img src="images/print.gif" alt="" border="0" /> Printer Friendly Version</a></font>
+                     <br />
+                     <br />
+                    </div></td> 
+                  </tr> 
+                 </tbody>
+                </table></td>
+               <td class="marginrighter" align="left" valign="top" width="208">
+                <table id="Table6" cellspacing="0" cellpadding="0" border="0"> 
+                 <tbody>
+                  <tr> 
+                   <td valign="bottom" height="10" style="border-bottom: solid 0px #E3E5E7"></td> 
+                  </tr>
+                  <tr> 
+                   <td valign="top">
+                    <link type="text/css" href="../Scripts/Style.css" rel="stylesheet" /><style type="text/css">.pre{font-family:courier,yukamoondo,serif;font-size:1em;}</style><br />
+                    <div id="main" style=" background-color:#ECE6D5; width:190px; height:150px; padding:5px; border: 1px solid #c4c4c4">
+                     <div align="center">
+                      <span style="font-size:14px; font-weight:bold; font-family:Verdana; color:#fd6816">Search all articles</span> 
+                      <br /> 
+                      <br />
+                     </div>
+                     <div id="content" style="margin-left:10px;">
+                      <div align="left" style="font-size:11px; font-weight:bold; font-family:Verdana;">
+                       Search topics by A-Z
+                      </div>
+                      <div id="ucSearchBox_Alphabets" align="justify">
+                       <table>
+                        <tbody>
+                         <tr>
+                          <td><a href="Practice_Categories.aspx?id=152Category=A"><font size="1">A</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=B"><font size="1">B</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=C"><font size="1">C</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=D"><font size="1">D</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=E"><font size="1">E</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=F"><font size="1">F</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=G"><font size="1">G</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=H"><font size="1">H</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=I"><font size="1">I</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=J"><font size="1">J</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=K"><font size="1">K</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=L"><font size="1">L</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=M"><font size="1">M</font></a></td>
+                         </tr>
+                         <tr>
+                          <td><a href="Practice_Categories.aspx?id=152Category=N"><font size="1">N</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=O"><font size="1">O</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=P"><font size="1">P</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=Q"><font size="1">Q</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=R"><font size="1">R</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=S"><font size="1">S</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=T"><font size="1">T</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=U"><font size="1">U</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=V"><font size="1">V</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=W"><font size="1">W</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=X"><font size="1">X</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=Y"><font size="1">Y</font></a></td>
+                          <td><a href="Practice_Categories.aspx?id=152Category=Z"><font size="1">Z</font></a></td>
+                         </tr>
+                        </tbody>
+                       </table>
+                      </div>
+                      <br /> 
+                      <span style="font-size:11px; font-weight:bold">Search by keywords</span> 
+                      <table cellpadding="0" cellspacing="0"> 
+                       <tbody>
+                        <tr> 
+                         <td> <input name="ucSearchBox$SearchBox" type="text" id="ucSearchBox_SearchBox" /> </td> 
+                         <td> <input type="submit" name="ucSearchBox$RunSearch" value="GO" id="ucSearchBox_RunSearch" /><br /> </td> 
+                        </tr> 
+                       </tbody>
+                      </table> 
+                      <br />
+                     </div>
+                    </div></td> 
+                  </tr>
+                  <tr> 
+                   <td height="50">
+                    <div id="promotion">
+                     <table cellspacing="1" cellpadding="0" border="0"> 
+                      <tbody> 
+                       <tr> 
+                        <td valign="top" colspan="2"><br /> <br /> <img width="12" height="8" alt="" src="/UserFiles/Diamond-pointer(2).jpg" /> <span class="Code">Advertisement</span></td> 
+                       </tr> 
+                       <tr> 
+                        <td valign="top" colspan="2"><a target="_blank" href="http://healthinsurancecomparison.com.au/your-health/"><img width="200" border="1" height="135" alt="" src="/userfiles/Health insurance comparison.jpg" /></a></td> 
+                       </tr> 
+                       <tr> 
+                        <td valign="top" colspan="2"><br /> </td> 
+                       </tr> 
+                       <tr> 
+                        <td valign="bottom" align="left" height="15" colspan="2"><img width="12" height="8" alt="" src="/UserFiles/Diamond-pointer(2).jpg" /> <span class="Code">Competition</span></td> 
+                       </tr> 
+                       <tr> 
+                        <td colspan="2" bordercolor="#000000"><img width="200" border="1" height="227" alt="" src="/userfiles/Lenovo-banner-ad.jpg" /><br />  <a style="text-decoration:none" href="Competition.aspx?id=152">Click here to enter</a></td> 
+                       </tr> 
+                      </tbody>
+                     </table>
+                    </div></td> 
+                  </tr> 
+                 </tbody>
+                </table></td> 
+              </tr> 
+             </tbody>
+            </table></td>
+           <td bgcolor="White" width="1"> <img src="images/clear.gif" height="1" width="1" alt="" /><br /> </td> 
+          </tr> 
+         </tbody>
+        </table></td> 
+      </tr>
+      <tr> 
+       <td colspan="2" bgcolor="#F2F2F2" height="4"></td> 
+      </tr>
+      <tr> 
+       <td colspan="2" bgcolor="#333333" height="30"></td> 
+      </tr>
+     </tbody>
+    </table> 
+   </center> 
+  </form> 
+  <script type="text/javascript">    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));    </script> 
+  <script type="text/javascript">    var pageTracker = _gat._getTracker("UA-3347682-1");     pageTracker._initData();    pageTracker._trackPageview();    </script> 
+ </body>
+</html>
