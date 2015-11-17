@@ -1,0 +1,503 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+ <head>
+  <title>Feasibility and Efficacy of Delivering Blood Glucose Awareness Training Over the Internet - Full Text View - ClinicalTrials.gov</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+  <link href="/ct2/show/NCT00327210" rel="canonical" />
+  <link href="/ct2/html/images/frame/icon.ico" rel="SHORTCUT ICON" />
+  <link href="/ct2/html/images/frame/ct.css" type="text/css" rel="stylesheet" />
+  <script type="text/javascript" src="/ct2/html/images/frame/ct.js" language="JavaScript"></script>
+  <script type="text/javascript" src="/ct2/html/images/foresee/foresee-trigger.js"></script>
+ </head>
+ <body style="min-width:720px; margin-left:0px; margin-right:0px; margin-top:0px" onload="doLoadActions();">
+  <!-- small_banner -->
+  <div class="skip">
+   <a href="#MainContent">Skip to Main Content</a>
+  </div>
+  <table class="layout_table banner_color" cellspacing="0" cellpadding="0" border="0" width="100%">
+   <tbody>
+    <tr>
+     <td align="left" style="padding:6px" nowrap=""><a title="Show Home Page" href="/ct2/home"><img alt="ClinicalTrials.gov" src="/ct2/html/images/frame/small_title.gif" border="0" /></a></td>
+     <td>
+      <div style="text-align:center; background-color:#E6ECF4; border: 2px ridge #C7D4E7; padding:4px">
+       <span style="font-size:large;"><a href="/beta/home">Beta test</a> our new site.</span>
+       <div>
+        (
+        <a style="font-size:x-small" href="http://www.nlm.nih.gov/pubs/techbull/ja12/ja12_clinicaltrials.html" onclick="openPopupWindow('http://www.nlm.nih.gov/pubs/techbull/ja12/ja12_clinicaltrials.html',true); return false;">NLM Technical Bulletin</a>)
+       </div>
+      </div></td>
+     <td class="header3" align="right" style="padding:3px 12px 3px 3px;" nowrap=""><a style="margin-left:1em;" title="Show Home Page" href="/ct2/home">Home</a><a style="margin-left:1em;" title="Show Search Page" href="/ct2/search">Search</a><a style="margin-left:1em;" title="Show Study Topics Page" href="/ct2/search/browse">Study Topics</a><a style="margin-left:1em;" title="Show Glossary Page" href="/ct2/info/glossary">Glossary</a><br />
+      <form method="get" action="/ct2/results" style="margin-top:0.5ex; margin-bottom:0px;">
+       <input class="body3" type="text" name="term" alt="Quick Search" title="Quick Search" value="" size="30" maxlength="250" />
+       <input class="header3" type="submit" alt="Search" value="Search" />
+      </form></td>
+    </tr>
+   </tbody>
+  </table>
+  <img width="100%" height="3" src="/ct2/html/images/frame/bar.gif" alt="" />
+  <br />
+  <a name="MainContent" id="skipnav"></a>
+  <!-- above_tabs -->
+  <div class="show_back_color">
+   <br />
+  </div>
+  <!-- tabs -->
+  <div class="show_back_color header3">
+   <table class="layout_table" cellpadding="0" cellspacing="0" border="0">
+    <tbody>
+     <tr valign="bottom">
+      <td valign="bottom"><img style="width:20px; height:2px" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+      <td valign="bottom"><img style="width:10px; height:2px;" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+      <td>
+       <table class="fore_tab_color layout_table" cellpadding="0" cellspacing="0" border="0">
+        <tbody>
+         <tr>
+          <td class="show_back_color"><img width="6" height="6" src="/ct2/html/images/tabs/upper_left_fore.gif" alt="" /></td>
+          <td valign="top"><img style="width:100%; height:2px;" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+          <td class="show_back_color"><img width="6" height="6" src="/ct2/html/images/tabs/upper_right_fore.gif" alt="" /></td>
+         </tr>
+         <tr>
+          <td align="left"><img style="width:2px; height:4ex;" src="/ct2/html/images/tabs/left.gif" alt="" /></td>
+          <td valign="top" style="padding:0.5ex 1.0em" nowrap=""><span class="header2">Full Text View</span></td>
+          <td align="right"><img style="width:2px; height:4ex;" src="/ct2/html/images/tabs/right.gif" alt="" /></td>
+         </tr>
+         <tr>
+          <td align="left"><img width="1" height="2" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+          <td></td>
+          <td align="right"><img width="2" height="2" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+         </tr>
+        </tbody>
+       </table></td>
+      <td valign="bottom"><img style="width:10px; height:2px;" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+      <td>
+       <table class="back_tab_color layout_table" cellpadding="0" cellspacing="0" border="0">
+        <tbody>
+         <tr>
+          <td class="show_back_color"><img width="6" height="6" src="/ct2/html/images/tabs/upper_left_back.gif" alt="" /></td>
+          <td valign="top"><img style="width:100%; height:2px;" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+          <td class="show_back_color"><img width="6" height="6" src="/ct2/html/images/tabs/upper_right_back.gif" alt="" /></td>
+         </tr>
+         <tr>
+          <td align="left"><img style="width:2px; height:3ex;" src="/ct2/html/images/tabs/left.gif" alt="" /></td>
+          <td valign="top" style="padding:0.5px 0.5em" nowrap=""><a title="Show Tabular View Page" href="/ct2/show/record/NCT00327210">Tabular View</a></td>
+          <td align="right"><img style="width:2px; height:3ex;" src="/ct2/html/images/tabs/right.gif" alt="" /></td>
+         </tr>
+         <tr>
+          <td valign="top" colspan="3"><img width="100%" height="2" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+         </tr>
+        </tbody>
+       </table></td>
+      <td valign="bottom"><img style="width:10px; height:2px;" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+      <td>
+       <table class="back_tab_color layout_table" cellpadding="0" cellspacing="0" border="0">
+        <tbody>
+         <tr>
+          <td class="show_back_color"><img width="6" height="6" src="/ct2/html/images/tabs/upper_left_back.gif" alt="" /></td>
+          <td valign="top"><img style="width:100%; height:2px;" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+          <td class="show_back_color"><img width="6" height="6" src="/ct2/html/images/tabs/upper_right_back.gif" alt="" /></td>
+         </tr>
+         <tr>
+          <td align="left"><img style="width:2px; height:3ex;" src="/ct2/html/images/tabs/left.gif" alt="" /></td>
+          <td valign="top" style="padding:0.5px 0.5em" nowrap=""><a title="Show No Study Results Posted Page" href="/ct2/show/results/NCT00327210" style="color:#666666">No Study Results Posted</a></td>
+          <td align="right"><img style="width:2px; height:3ex;" src="/ct2/html/images/tabs/right.gif" alt="" /></td>
+         </tr>
+         <tr>
+          <td valign="top" colspan="3"><img width="100%" height="2" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+         </tr>
+        </tbody>
+       </table></td>
+      <td valign="bottom"><img style="width:10px; height:2px;" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+      <td valign="bottom"><img style="width:50px; height:2px" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+      <td valign="bottom"><img style="width:10px; height:2px;" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+      <td>
+       <table class="back_tab_color layout_table" cellpadding="0" cellspacing="0" border="0">
+        <tbody>
+         <tr>
+          <td class="show_back_color"><img width="6" height="6" src="/ct2/html/images/tabs/upper_left_back.gif" alt="" /></td>
+          <td valign="top"><img style="width:100%; height:2px;" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+          <td class="show_back_color"><img width="6" height="6" src="/ct2/html/images/tabs/upper_right_back.gif" alt="" /></td>
+         </tr>
+         <tr>
+          <td align="left"><img style="width:2px; height:3ex;" src="/ct2/html/images/tabs/left.gif" alt="" /></td>
+          <td valign="top" style="padding:0.5px 0.5em" nowrap=""><a title="Show Related Studies Page" href="/ct2/show/related/NCT00327210">Related Studies</a></td>
+          <td align="right"><img style="width:2px; height:3ex;" src="/ct2/html/images/tabs/right.gif" alt="" /></td>
+         </tr>
+         <tr>
+          <td valign="top" colspan="3"><img width="100%" height="2" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+         </tr>
+        </tbody>
+       </table></td>
+      <td valign="bottom"><img style="width:10px; height:2px;" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+      <td valign="bottom" width="100%"><img style="width:100%; height:2px" src="/ct2/html/images/tabs/top.gif" alt="" /></td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <!-- Title section -->
+  <div class="indent3" align="center">
+   <div class="header1" style="margin-top:3ex;">
+    Feasibility and Efficacy of Delivering Blood Glucose Awareness Training Over the Internet
+   </div>
+   <div class="header2" style="margin-top:2ex; color:#774400">
+    The recruitment status of this study is unknown because the information has not been verified recently.
+   </div>
+   <div title="The verification date is the most recent date the responsible party verified the study information is correct.  The last updated date is the most recent date the record changed in any way.  The two dates may be different.">
+    <span style="color:#0000cc">Verified August 2008</span> by University of Virginia. 
+    <br />Recruitment status was Active, not recruiting
+   </div>
+   <br />
+   <div>
+    First Received on May 16, 2006. Last Updated on August 6, 2008 
+    <a href="/ct2/archive/NCT00327210" title="Historical versions of study NCT00327210 on ClinicalTrials.gov Archive Site" onclick="openNewWindow('/ct2/archive/NCT00327210'); return false;">History of Changes</a>
+   </div>
+   <table class="data_table" cellspacing="0" cellpadding="5" border="1" width="50%" style="margin:2ex 0;">
+    <tbody>
+     <tr>
+      <th align="right" nowrap="" class="header3 pale_banner_color"> Sponsor: </th>
+      <td align="left" nowrap="" class="body2"> University of Virginia </td>
+     </tr>
+     <tr>
+      <th align="right" nowrap="" class="header3 pale_banner_color">Collaborator: </th>
+      <td align="left" nowrap="" class="body2">American Diabetes Association<br /> </td>
+     </tr>
+     <tr>
+      <th align="right" nowrap="" class="header3 pale_banner_color">Information provided by: </th>
+      <td align="left" nowrap="" class="body2">University of Virginia</td>
+     </tr>
+     <tr>
+      <th align="right" nowrap="" class="header3 pale_banner_color">ClinicalTrials.gov Identifier: </th>
+      <td align="left" nowrap="" class="body2">NCT00327210</td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <!-- purpose_section -->
+  <div class="indent1" style="margin-top:3ex">
+   <img src="/ct2/html/images/frame/triangle.gif" alt="" />
+   <span class="header2"> Purpose</span>
+   <div class="indent2" style="margin-top:2ex">
+    <div class="body3">
+     <p style="margin-top:1ex; margin-bottom:1ex;">BGATHome is an interactive, web-based training program designed to improve the ability of adults with Type 1 Diabetes to recognize, predict, treat, and avoid extreme blood glucose (BG) events. It was developed at the University of Virginia over the past 20 years with funding from the National Institutes of Health and the American Diabetes Association. BGATHome provides important knowledge about personal insulin use, food, and activity regimens that influence BG levels. Users of this program will learn to monitor and recognize the cues that signal hyper and hypoglycemic events, and enhance their ability to control these fluctuations.</p>
+    </div>
+    <br />
+    <!-- condition, intervention, phase summary table -->
+    <div align="center">
+     <table class="data_table" cellspacing="0" cellpadding="5" border="1" width="80%">
+      <tbody>
+       <tr align="left">
+        <th class="header3 pale_banner_color"><a href="/ct2/help/conditions_desc" title="Help on Conditions field" onclick="openPopupWindow('/ct2/help/conditions_desc',false); return false;">Condition</a></th>
+        <th class="header3 pale_banner_color"><a href="/ct2/help/interventions_desc" title="Help on Interventions field" onclick="openPopupWindow('/ct2/help/interventions_desc',false); return false;">Intervention</a></th>
+        <th class="header3 pale_banner_color"><a href="/ct2/help/phase_desc" title="Help on Phase field" onclick="openPopupWindow('/ct2/help/phase_desc',false); return false;">Phase</a></th>
+       </tr>
+       <tr align="left" valign="top">
+        <td class="body3" nowrap="">Type 1 Diabetes Mellitus<br /></td>
+        <td class="body3" nowrap="">Behavioral: Blood Glucose Awareness Training<br /></td>
+        <td class="body3" nowrap="">Phase 1<br />Phase 2<br /></td>
+       </tr>
+      </tbody>
+     </table>
+    </div>
+    <br />
+    <table class="layout_table" style="margin-bottom:2ex;" cellpadding="0" cellspacing="0" border="0">
+     <tbody>
+      <tr valign="top">
+       <td nowrap="">Study Type:</td>
+       <td style="padding-left:1em">Interventional</td>
+      </tr>
+      <tr valign="top">
+       <td nowrap="">Study Design:</td>
+       <td style="padding-left:1em">Allocation:Randomized<br />EndpointClassification:EfficacyStudy<br />InterventionModel:ParallelAssignment<br />Masking:OpenLabel</td>
+      </tr>
+      <tr valign="top">
+       <td nowrap="" style="padding-top:2ex">Official Title:</td>
+       <td style="padding-left:1em; padding-top:2ex">Blood Glucose Awareness Training Delivered Over the Internet (BGATHome.Com): Feasibility and Efficacy</td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- NLM links -->
+    <br />
+    <div class="header3">
+     Resource links provided by NLM:
+    </div>
+    <br />
+    <div class="indent3">
+     <!-- ghr links -->
+     <div style="margin-bottom:2ex">
+      <a href="http://ghr.nlm.nih.gov/" title="Genetics Home Reference site" onclick="openNewWindow('http://ghr.nlm.nih.gov/'); return false">Genetics Home Reference</a> related topics:
+      <a style="padding-left:0.5em;" href="/ct2/bye/DQoPWw4lZXcilwpxudhWudNzlXNiZip90dcx5Q1PedcOZgUjSgYLS67akihH5X1PSB7xFQ7HuiYLu679uB1PkdYL5Q7Gp61PzwSLm67avQ1PLwE." title="6q24-relatedtransientneonataldiabetesmellitus at Genetics Home Reference site" onclick="openNewWindow('/ct2/bye/DQoPWw4lZXcilwpxudhWudNzlXNiZip90dcx5Q1PedcOZgUjSgYLS67akihH5X1PSB7xFQ7HuiYLu679uB1PkdYL5Q7Gp61PzwSLm67avQ1PLwE.'); return false">6q24-relatedtransientneonataldiabetesmellitus</a>
+     </div>
+     <!-- medline links -->
+     <div style="margin-bottom:2ex;">
+      <a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus site" onclick="openNewWindow('http://www.nlm.nih.gov/medlineplus/'); return false">MedlinePlus</a> related topics:
+      <a style="padding-left:0.5em;" href="/ct2/bye/EQoPWw4lZX-i-iSxudhWudNzlXNiZip9m67PvQ7xzwhaLwS95Q7Gp61PzwSxlihLv." title="Diabetes at MedlinePlus site" onclick="openNewWindow('/ct2/bye/EQoPWw4lZX-i-iSxudhWudNzlXNiZip9m67PvQ7xzwhaLwS95Q7Gp61PzwSxlihLv.'); return false">Diabetes</a>
+      <a style="padding-left:0.5em;" href="/ct2/bye/xQoPWw4lZX-i-iSxudhWudNzlXNiZip9m67PvQ7xzwhaLwS95Q7Gp61PzwcLz6hz0Q7xzwSxlihLv." title="DiabetesMedicines at MedlinePlus site" onclick="openNewWindow('/ct2/bye/xQoPWw4lZX-i-iSxudhWudNzlXNiZip9m67PvQ7xzwhaLwS95Q7Gp61PzwcLz6hz0Q7xzwSxlihLv.'); return false">DiabetesMedicines</a>
+      <a style="padding-left:0.5em;" href="/ct2/bye/LQoPWw4lZX-i-iSxudhWudNzlXNiZip9m67PvQ7xzwhaLwS95Q7Gp61Pzw-Pxwh8aXNkWd7E." title="DiabetesType1 at MedlinePlus site" onclick="openNewWindow('/ct2/bye/LQoPWw4lZX-i-iSxudhWudNzlXNiZip9m67PvQ7xzwhaLwS95Q7Gp61Pzw-Pxwh8aXNkWd7E.'); return false">DiabetesType1</a>
+     </div>
+     <!-- SIS links -->
+     <div style="margin-bottom:2ex;">
+      <a href="http://druginfo.nlm.nih.gov/drugportal/drugportal.jsp" title="Drug Information Portal" onclick="openNewWindow('http://druginfo.nlm.nih.gov/drugportal/drugportal.jsp'); return false">Drug Information</a> available for:
+      <a style="padding-left:0.5em;" href="/ct2/bye/3QoPWw4lZXcPSi7iedN6ZXNxvdDxuQ7Ju6c9cXcPSi7iEd-yWB7EZ6o35Q1yzB-VuQUgEscxkd789PhHOioyZwc8." title="Dextrose at ChemIDplus site" onclick="openNewWindow('/ct2/bye/3QoPWw4lZXcPSi7iedN6ZXNxvdDxuQ7Ju6c9cXcPSi7iEd-yWB7EZ6o35Q1yzB-VuQUgEscxkd789PhHOioyZwc8.'); return false">Dextrose</a>
+     </div>
+     <a href="/ct2/info/fdalinks" title="Show FDA resources page" onclick="openNewWindow('/ct2/info/fdalinks'); return false">U.S. FDA Resources</a>
+     <br />
+    </div>
+    <!-- more details -->
+    <br />
+    <div class="header3">
+     Further study details as provided by University of Virginia:
+    </div>
+    <br />
+    <div class="indent3">
+     <!-- primary outcomes -->
+     <div class="body3">
+      Primary Outcome Measures:
+      <ul style="margin-top:1ex; margin-bottom:1ex;">
+       <li style="margin-top:0.7ex;">Feasibility (Internet Evaluation conducted post intervention)<br /></li>
+      </ul>
+     </div>
+     <br />
+     <!-- secondary outcomes -->
+     <div class="body3">
+      Secondary Outcome Measures:
+      <ul style="margin-top:1ex; margin-bottom:1ex;">
+       <li style="margin-top:0.7ex;">Improved BG awareness<br /></li>
+       <li style="margin-top:0.7ex;">Reduced adverse events<br /></li>
+       <li style="margin-top:0.7ex;">Improved psychological functioning (Hypo Fear Survey, Diabetes Quality of Life)<br /></li>
+       <li style="margin-top:0.7ex;">Improved knowledge (Diabetes Knowledge Scale)<br /></li>
+       <li style="margin-top:0.7ex;">All measures administered pre and post intervention (post 1 year for experimental subjects)<br /></li>
+      </ul>
+     </div>
+     <br />
+     <table class="layout_table" style="margin-bottom:3ex;" cellpadding="0" cellspacing="0" border="0">
+      <tbody>
+       <tr valign="top">
+        <td nowrap=""> Estimated Enrollment:</td>
+        <td style="padding-left:1em">100</td>
+       </tr>
+       <tr valign="top">
+        <td nowrap=""> Study Start Date:</td>
+        <td style="padding-left:1em">May 2005</td>
+       </tr>
+       <tr valign="top">
+        <td nowrap=""> Estimated Study Completion Date:</td>
+        <td style="padding-left:1em">July 2009</td>
+       </tr>
+      </tbody>
+     </table>
+     <a name="desc" id="desc"></a>
+     <!-- detailed description -->
+     <span class="header3">Detailed Description:</span>
+     <div class="body3">
+      <p style="margin-top:0ex; margin-bottom:1ex;">Interested subjects will be informed that they will be randomly assigned to either receive the BGATHome program or will be placed in a wait-list control group. Respondents will be informed that if they are in the control group, they are expected to complete the pre- and post-assessments (HHC and questionnaires), but once these are complete, they will be given free access to the BGATHome program. Respondents will be informed that being in the control group will delay their access to the program by approximately 5 months.</p>
+      <p style="margin-top:0ex; margin-bottom:1ex;">A hand held computer (PDA) will be provided for use during this study. Subjects will be asked to first estimate their blood glucose level and enter this estimate into the PDA. They will then actually measure their blood glucose level and enter this actual value into the PDA also. This process of first estimating the blood glucose level and then taking an actual reading will be repeated 70 times during the 4-week period. The time estimated for this task is approximately 3 minutes for entering each estimate and measurement, or a total of 3.5 hours over the 4 weeks. The PDA device will be returned (postage paid) after the first 4 weeks of the study. At 12 weeks, the device will be sent to study subjects again and the process of obtaining data about blood glucose levels by first estimating and then taking an actual reading will be repeated over the next 4 weeks, as before. The PDA device will again be returned (postage paid) after 4 weeks of data collection. The total amount of time estimated to enter data into a PDA for this study is approximately 7 hours.</p>
+      <p style="margin-top:0ex; margin-bottom:1ex;">Subjects will be asked to respond to a series of four questionnaires on the Internet, taking approximately 30-45 minutes. These questionnaires will be completed 3 times over the course of the study - before beginning the BGATHome program, at 12 weeks and at one year after completing the BGATHome program. The total time estimated to complete the three sets of questionnaires is approximately 2 hours, 15 minutes.</p>
+      <p style="margin-top:0ex; margin-bottom:1ex;">Experimental subjects will be asked to complete a total of eight units of the BGATHome program, completing one unit a week except for the first week when two units will be completed. Each unit will take approximately one hour to complete. Subjects will have a maximum of 12 weeks to complete BGATHome. The total time is estimated at 8 hours.</p>
+      <p style="margin-top:0ex; margin-bottom:1ex;">The wait-list control subjects will be offered access to the BGATHome program approximately five months after consenting to be in the study. They will then complete the series of four questionnaires on the Internet 12 weeks after using the BGATHome program. If the control subjects do not choose to use the program, a one year follow assessment will occur like the experimental subjects.</p>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- eligibility_section -->
+  <div class="indent1" style="margin-top:3ex; border:1px solid white">
+   <img src="/ct2/html/images/frame/triangle.gif" alt="" />
+   <span class="header2"> Eligibility</span>
+   <br />
+   <br />
+   <div class="indent2">
+    <table class="layout_table" cellpadding="0" cellspacing="0" border="0">
+     <tbody>
+      <tr>
+       <td nowrap="">Ages Eligible for Study:  </td>
+       <td style="padding-left:1em">21 Years and older</td>
+      </tr>
+      <tr>
+       <td nowrap="">Genders Eligible for Study:  </td>
+       <td style="padding-left:1em">Both</td>
+      </tr>
+      <tr>
+       <td nowrap="">Accepts Healthy Volunteers:  </td>
+       <td style="padding-left:1em">No</td>
+      </tr>
+     </tbody>
+    </table>
+    <div class="header3" style="margin-top:2ex">
+     Criteria
+    </div>
+    <div class="indent2">
+     <p style="margin-top:0ex; margin-bottom:1ex;">Inclusion Criteria:</p>
+     <ul style="margin-top:1ex; margin-bottom:1ex;">
+      <li style="margin-top:0.7ex;">Type 1 diabetes for at least one year.</li>
+      <li style="margin-top:0.7ex;">Access to the Internet.</li>
+      <li style="margin-top:0.7ex;">Routinely perform Self Monitoring of Blood Glucose at least three times a day.</li>
+      <li style="margin-top:0.7ex;">‚â• 21 years of age</li>
+     </ul>
+     <p style="margin-top:0ex; margin-bottom:1ex;">Exclusion Criteria:</p>
+     <p style="margin-top:0ex; margin-bottom:1ex;">- Not able to complete the Internet program in 12 weeks.</p>
+    </div>
+   </div>
+  </div>
+  <!-- location_section -->
+  <div class="indent1" style="margin-top:3ex">
+   <img src="/ct2/html/images/frame/triangle.gif" alt="" />
+   <span class="header2"> Contacts and Locations</span>
+   <br />
+   <div class="indent2" style="margin-top:2ex">
+    Please refer to this study by its ClinicalTrials.gov identifier: NCT00327210
+    <br />
+    <br />
+    <!-- contacts -->
+    <!-- locations -->
+    <a name="locn" id="locn"></a>
+    <div class="header3" style="margin-top:2ex">
+     Locations
+    </div>
+    <table class="layout_table indent2" cellspacing="0" cellpadding="0" border="0">
+     <tbody>
+      <tr>
+       <td colspan="2" class="header3" style="padding-top:2ex" nowrap="">United States, Virginia</td>
+      </tr>
+      <tr>
+       <td style="padding:1ex 1em 0px 2em" nowrap="">University of Viginia Health System</td>
+      </tr>
+      <tr>
+       <td colspan="2" style="padding-left:4em" nowrap="">Charlottesville, Virginia, United States, 22907 </td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- sponsors -->
+    <div class="header3" style="margin-top:2ex">
+     Sponsors and Collaborators
+    </div>
+    <div class="indent2" style="margin-top:1ex">
+     University of Virginia
+    </div>
+    <div class="indent2" style="margin-top:1ex">
+     American Diabetes Association
+    </div>
+    <!-- investigators -->
+    <div class="header3" style="margin-top:2ex">
+     Investigators
+    </div>
+    <table class="layout_table indent2" cellspacing="0" cellpadding="0" border="0">
+     <tbody>
+      <tr>
+       <td style="padding:1ex 1em 0px 0px" nowrap="">Principal Investigator:</td>
+       <td style="padding:1ex 1em 0px 0px" nowrap="">Daniel J Cox, Ph.D</td>
+       <td style="padding:1ex 1em 0px 0px" nowrap="">University of Virginia Health System</td>
+      </tr>
+     </tbody>
+    </table>
+   </div>
+  </div>
+  <!-- more_info_section -->
+  <div class="indent1" style="margin-top:3ex; border:1px solid white">
+   <img src="/ct2/html/images/frame/triangle.gif" alt="" />
+   <span class="header2"> More Information</span>
+   <div class="indent2">
+    <br />Additional Information:
+    <div class="indent2" style="margin-top:2ex">
+     <a href="/ct2/bye/JQoPWw4lZX-i-iSxedUPzwNHFiYxp6cGWQh9m6Dx0dcW/P8-PL6o5J6hHFB-yewoPedcO" title="Study description" onclick="openNewWindow('/ct2/bye/JQoPWw4lZX-i-iSxedUPzwNHFiYxp6cGWQh9m6Dx0dcW/P8-PL6o5J6hHFB-yewoPedcO'); return false">Study description</a>
+     <img src="/ct2/html/images/frame/exit.bmp" alt="This link exits the ClinicalTrials.gov site" />
+    </div>
+    <div class="indent2" style="margin-top:2ex">
+     <a href="/ct2/bye/1QoPWw4lZX-i-iSxp6cGWQh9m6Dx0dcW/TV5i3HjksC88JD7xW61yu61VJQ7xW61yc67xWQ79u" title="BGATHOME Internet intervention" onclick="openNewWindow('/ct2/bye/1QoPWw4lZX-i-iSxp6cGWQh9m6Dx0dcW/TV5i3HjksC88JD7xW61yu61VJQ7xW61yc67xWQ79u'); return false">BGATHOME Internet intervention</a>
+     <img src="/ct2/html/images/frame/exit.bmp" alt="This link exits the ClinicalTrials.gov site" />
+    </div>
+    <br />No publications provided by University of Virginia 
+    <br />
+    <br />Additional publications automatically indexed to this study by ClinicalTrials.gov Identifier (NCT Number):
+    <div class="indent2">
+     <div style="margin-top:2ex">
+      <a href="/ct2/bye/zQoPWw4lZX-i-iSxuBcyeXNxvdDxuQ7Ju6c9cXcHuioyzTp9ai7HSTDxNBciescgm64LD61PSQ7Hc6D65B0LVi7yg67VN6h9Ei4L3BUgWwNG0iY6vQ1gW1-He6oR9RCJWgFwORCR." title="Cox D, Ritterband L, Magee J, Clarke W, Gonder-Frederick L. Blood glucose awareness training delivered over the internet. Diabetes Care. 2008 Aug;31(8):1527-8. Epub 2008 May 13." onclick="openNewWindow('/ct2/bye/zQoPWw4lZX-i-iSxuBcyeXNxvdDxuQ7Ju6c9cXcHuioyzTp9ai7HSTDxNBciescgm64LD61PSQ7Hc6D65B0LVi7yg67VN6h9Ei4L3BUgWwNG0iY6vQ1gW1-He6oR9RCJWgFwORCR.'); return false">Cox D, Ritterband L, Magee J, Clarke W, Gonder-Frederick L. Blood glucose awareness training delivered over the internet. Diabetes Care. 2008 Aug;31(8):1527-8. Epub 2008 May 13.</a>
+     </div>
+    </div>
+    <br />
+    <table class="layout_table" style="margin-top:1ex" cellpadding="0" cellspacing="0" border="0">
+     <tbody>
+      <tr valign="top">
+       <td nowrap="">ClinicalTrials.gov Identifier:</td>
+       <td style="padding-left:1em"><a title="Current version of study NCT00327210 on ClinicalTrials.gov" href="http://clinicaltrials.gov/show/NCT00327210">NCT00327210</a>  <a href="/ct2/archive/NCT00327210" title="Historical versions of study NCT00327210 on ClinicalTrials.gov Archive Site" onclick="openNewWindow('/ct2/archive/NCT00327210'); return false;">History of Changes</a></td>
+      </tr>
+      <tr valign="top">
+       <td nowrap="">Other Study ID Numbers:</td>
+       <td style="padding-left:1em">UVAIRB# 11593</td>
+      </tr>
+      <tr valign="top">
+       <td nowrap="">Study First Received:</td>
+       <td style="padding-left:1em">May 16, 2006</td>
+      </tr>
+      <tr valign="top">
+       <td nowrap="">Last Updated:</td>
+       <td style="padding-left:1em">August 6, 2008</td>
+      </tr>
+      <tr valign="top">
+       <td nowrap="">Health Authority:</td>
+       <td style="padding-left:1em">United States: Institutional Review Board<br /></td>
+      </tr>
+     </tbody>
+    </table>
+    <!-- keywords -->
+    <br />Keywords provided by University of Virginia:
+    <div class="indent3">
+     <table class="layout_table" cellpadding="0" cellspacing="0" border="0" width="100%">
+      <tbody>
+       <tr valign="top">
+        <td width="50%">BGAT<br />Blood Glucose Awareness Training<br />Diabetes<br />T1DM<br />Internet<br />Web<br /></td>
+        <td width="50%" style="padding-left:1em">Intervention<br />Treatment<br />Behavior<br />Education<br />Awareness<br /></td>
+       </tr>
+      </tbody>
+     </table>
+    </div>
+    <!-- mesh terms -->
+    <br />Additional relevant MeSH terms:
+    <div class="indent3">
+     <table class="layout_table" cellpadding="0" cellspacing="0" border="0" width="100%">
+      <tbody>
+       <tr valign="top">
+        <td width="50%">Diabetes Mellitus<br />Diabetes Mellitus, Type 1<br />Glucose Metabolism Disorders<br />Metabolic Diseases<br /></td>
+        <td width="50%" style="padding-left:1em">Endocrine System Diseases<br />Autoimmune Diseases<br />Immune System Diseases<br /></td>
+       </tr>
+      </tbody>
+     </table>
+    </div>
+    <br />
+    <span class="body3">ClinicalTrials.gov processed this record on September 09, 2012</span>
+    <br />
+    <br />
+   </div>
+  </div>
+  <!-- Footer -->
+  <div class="skip">
+   <a href="#MainContent">Back to top of Main Content</a>
+  </div>
+  <img width="100%" height="3" src="/ct2/html/images/frame/bar.gif" alt="" />
+  <br />
+  <div align="center" class="footer">
+   <br />
+   <a href="/ct2/helpdesk?hd_url=http%3A%2F%2Fclinicaltrial.gov%2Fct2%2Fshow%2FNCT00327210" onclick="openPopupWindow('/ct2/helpdesk?hd_url=http%3A%2F%2Fclinicaltrial.gov%2Fct2%2Fshow%2FNCT00327210',true); return false;">Contact Help Desk</a>
+   <br />
+   <a href="http://www.lhncbc.nlm.nih.gov">Lister Hill National Center for Biomedical Communications</a>,
+   <a href="http://www.nlm.nih.gov/">U.S. National Library of Medicine</a>,
+   <br />
+   <a href="http://www.nih.gov/">U.S. National Institutes of Health</a>,
+   <a href="http://www.hhs.gov/">U.S. Department of Health  Human Services</a>,
+   <br />
+   <a href="http://www.usa.gov/">USA.gov</a>,
+   <a href="http://www.nlm.nih.gov/copyright.html">Copyright</a>,
+   <a href="http://www.nlm.nih.gov/privacy.html">Privacy</a>,
+   <a href="http://www.nlm.nih.gov/accessibility.html">Accessibility</a>,
+   <a href="http://www.nih.gov/icd/od/foia/index.htm">Freedom of Information Act</a>
+   <br />
+   <br />
+   <a href="http://www.nih.gov/"><img alt="U.S. National Institutes of Health" src="/ct2/html/images/frame/nih_logo.gif" border="0" /></a>
+   <a href="http://www.nlm.nih.gov/"><img alt="U.S. National Library of Medicine" src="/ct2/html/images/frame/nlm_logo.gif" border="0" /></a>
+   <a href="http://www.hhs.gov/"><img alt="U.S. Department of Health  Human Services" src="/ct2/html/images/frame/hhs_logo.gif" border="0" /></a>
+   <br />
+   <br />
+   <br />
+   <br />
+   <a href="/ct2/crawl" class="skip">Links to all studies - primarily for crawlers</a>
+  </div>
+  <!-- 2012:09:10 15:09:42.206  RRe0IHm:SRe0GUj:I8c11z5:wp2 -->
+ </body>
+</html>
