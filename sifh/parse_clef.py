@@ -2,6 +2,7 @@ import os
 import os.path
 import sys
 import logging
+import codecs
 
 from whoosh import index
 from whoosh.index import create_in
@@ -29,8 +30,9 @@ schema = Schema(docid=TEXT(stored=True),
 
 ix = create_in("index", schema)
 writer = ix.writer()
-path = "./clef_small_sample/" #local path to single desktop file
-# path = "./clef2015-sample/" #local path to desktop files
+#path = u"./clef_small_sample/" #local path to single desktop file
+path = u"../clef2015/" #local path to desktop files
+#path = u"../clef2015-problemfiles/"
 
 
 def make_file_list():
@@ -49,12 +51,15 @@ def create_index():
     html_files = make_file_list()
     for html_file in html_files:
         ndocid = unicode(html_file)
-        html = open(path + html_file, 'r').read()
-        nalltext = extract_all_text(html)
+        print 'adding ' + ndocid
+        file_path = unicode(path + html_file)
+        html = codecs.open(file_path,  encoding='utf-8').read()
+        nalltext = extract_all_text(file_path)
         article = goose_extract(html)
         ncontent = extract_main_text(article)
         ntitle = extract_title(article)
-        writer.add_document(docid=ndocid, title=ntitle, content=ncontent, alltext=nalltext)
+        writer.add_document(docid=unicode(ndocid), title=unicode(ntitle), content=unicode(ncontent), alltext=unicode(nalltext))
+        print 'added ' + ndocid
         log.info('added ' + ndocid)
     writer.commit()
 
@@ -71,8 +76,8 @@ def extract_title(article):
 
 def extract_all_text(html):
     textnodes = list(extract(html))
-    text_str = ''.join((e.text_content().encode('utf-8')) for e in textnodes)
-    return unicode(text_str.strip('  '))
+    text_str = unicode(''.join((e.text_content().encode('utf-8')) for e in textnodes))
+    return text_str
 
 
 def goose_extract(html):
