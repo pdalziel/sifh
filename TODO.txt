@@ -44,3 +44,10 @@ Basic Searcher
 		run it agains the index
 		output for the first n=10 queries.
 		queryid, docid, rank and score
+
+
+def get_html(html_file):
+    with codecs.open(path + html_file, 'r', "utf-8") as f:
+        html = f.read()
+    return html
+
