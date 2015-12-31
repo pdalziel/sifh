@@ -33,6 +33,7 @@ path = u"../clef_small_sample/" #local path to single desktop file
 #path = u"../clef2015-problemfiles/"
 
 idx_name = path[3:-1]
+print idx_name
 
 
 if not os.path.exists("index"):
@@ -41,7 +42,7 @@ if not os.path.exists("index"):
 
 if index.exists_in("index", indexname=idx_name):
      log.info('found index')
-     ix = index.open_dir("index")
+     ix = index.open_dir("index", indexname=idx_name)
 
 else:
     log.info('created index' + "idx_name")
