@@ -1,0 +1,22 @@
+DEBUG:logger:['yourh5013_12_020483', 'zrtla5027_12_000009', 'clini0836_12_027485', 'clini0836_12_015898', 'arthr0949_12_000975']
+DEBUG:logger:<goose.article.Article object at 0x7fe059d265d0>
+INFO:logger:addedyourh5013_12_020483
+DEBUG:logger:<goose.article.Article object at 0x7fe059ca6d50>
+INFO:logger:addedzrtla5027_12_000009
+DEBUG:logger:<goose.article.Article object at 0x7fe059c630d0>
+INFO:logger:addedclini0836_12_027485
+DEBUG:logger:<goose.article.Article object at 0x7fe059c779d0>
+INFO:logger:addedclini0836_12_015898
+DEBUG:logger:<goose.article.Article object at 0x7fe059c18c10>
+INFO:logger:addedarthr0949_12_000975
+DEBUG:logger:['yourh5013_12_020483', 'zrtla5027_12_000009', 'clini0836_12_027485', 'clini0836_12_015898', 'arthr0949_12_000975']
+DEBUG:logger:<goose.article.Article object at 0x7f9c0f13e5d0>
+INFO:logger:added yourh5013_12_020483
+DEBUG:logger:<goose.article.Article object at 0x7f9c0f0bed50>
+INFO:logger:added zrtla5027_12_000009
+DEBUG:logger:<goose.article.Article object at 0x7f9c0f07b0d0>
+INFO:logger:added clini0836_12_027485
+DEBUG:logger:<goose.article.Article object at 0x7f9c0f08f9d0>
+INFO:logger:added clini0836_12_015898
+DEBUG:logger:<goose.article.Article object at 0x7f9c0f030c10>
+INFO:logger:added arthr0949_12_000975
