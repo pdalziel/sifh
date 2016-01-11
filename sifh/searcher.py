@@ -32,7 +32,7 @@ for q in root.findall('top'):
     q = qp.parse(unicode(query))
     with ix.searcher() as searcher:
         results = searcher.search(q, terms=True)
-        #log.info(str(len(results)) + " hits")
+        log.info(str(len(results)) + " hits")
         log.info(query)
         print query
         for hit in results:
@@ -45,13 +45,4 @@ path = u"../clef2015-problemfiles/"
 idx_name = path[3:-1]
 
 
-path_to_index = "/home/paul/Project/sifh/index"
-ix = index.open_dir(path_to_index, indexname=idx_name)
-
-
-with ix.searcher() as searcher:
-    results = searcher.search(q, terms=True)
-    for hit in results:
-        print(hit["title"])
-        print(hit.highlights("content"))
 
