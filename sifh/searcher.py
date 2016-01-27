@@ -30,13 +30,13 @@ tree = ET.parse(queries_path)
 root = tree.getroot()
 itr = " 0 "
 run_id = " base "
-rank = " 0 "
 
 
-def create_results_flie(qid, docid, sim):
+
+def create_results_flie(qid, docid, rank, sim):
     with open(res_file, 'a') as result_file:
-        pass
-        result_file.write(str(qid + itr + docid + rank + sim + run_id + "\n"))
+        ranking = str(rank)
+        result_file.write(str(qid + itr + docid + " " + ranking + " " + sim + run_id + "\n"))
         # print (str(qid + itr + docid + rank + sim + run_id + "\n"))
 
 
@@ -49,16 +49,17 @@ for q in root.findall('top'):
         results = searcher.search(q, limit=None)
         # log.info(str(len(results)) + " hits")
         log.info(query)
-        #print query
-
+        print query
+        rank = 0
         #print results.__len__()
         for hit in results:
+            rank += 1
             if results.has_matched_terms:
                 sim = str(hit.score)
             else:
                 sim = "0"
             docid = str(hit["docid"])
-            create_results_flie(qid, docid, sim)
+            create_results_flie(qid, docid, rank, sim)
             # log.info(u"TITLE: " + (hit["title"]) + u" DOCID: " + (hit["docid"]) + u" SCORE:  " + unicode(hit.score))
             # print (hit.matched_terms())
             # print (u"TITLE: " + (hit["title"]) + u" DOCID: " + (hit["docid"]) + (hit["meta_tag_contents"]) + u" SCORE: " + unicode(hit.score))
