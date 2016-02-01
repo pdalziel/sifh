@@ -28,9 +28,8 @@ qp = QueryParser("content", schema=ix.schema)
 
 tree = ET.parse(queries_path)
 root = tree.getroot()
-itr = " 0 "
+itr = " Q0 "
 run_id = " base "
-
 
 
 def create_results_flie(qid, docid, rank, sim):
