@@ -33,7 +33,7 @@ class SearchRunner(object):
         ix = index.open_dir(path_to_index)
         qp = QueryParser("content", schema=ix.schema)
         for q in query_list:
-            qid = q[0]
+            qid = q[0]  
             q_str = q[1]
             query = qp.parse(unicode(q_str))
             with ix.searcher(weighting=w) as searcher:
