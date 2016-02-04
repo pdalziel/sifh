@@ -6,7 +6,8 @@ import logging
 from whoosh import query
 from whoosh import index
 from whoosh import searching
-from whoosh.qparser import QueryParser
+from whoosh import qparser
+
 
 
 class QueryGenerator(object):
@@ -20,11 +21,14 @@ class QueryGenerator(object):
             tree = ET.parse(queries_path)
             root = tree.getroot()
             query_l = []
-            qparser = QueryParser(self.fields[0], schema=self.myindex.schema)
+            if operator == "OR":
+                parser = qparser.QueryParser(self.fields[0], schema=self.myindex.schema, group=qparser.OrGroup)
+            else:
+                parser = qparser.QueryParser(self.fields[0], schema=self.myindex.schema)
             for q in root.findall('top'):
                 query_str = q.find('query').text
                 qid = str(q.find('num').text)
-                qp = qparser.parse(unicode(query_str))
+                qp = parser.parse(unicode(query_str))
                 query_l.append([qid, query_str])
             return query_l
 

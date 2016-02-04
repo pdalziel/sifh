@@ -17,7 +17,7 @@ class SearchRunner(object):
         self.variable = variable
 
     def gen_results_file_name(self, w, run_id):
-        runname = "BM25F.B=" + str(self.variable) + "_" + run_id + ".dat"
+        runname = run_id + ".dat"
         return runname
 
     def output_results(self, w, qid, docid, rank, sim, run_id):
@@ -28,12 +28,12 @@ class SearchRunner(object):
             result_file.write(str(qid + itr + docid + " " + ranking + " " + sim + " " + run_id + "\n"))
 
     def run_search(self, query_list, run_id):
-        w = scoring.BM25F(B=self.variable)
+        w = scoring.PL2(c=self.variable)
         path_to_index = "/home/paul/Project/sifh/index"
         ix = index.open_dir(path_to_index)
         qp = QueryParser("content", schema=ix.schema)
         for q in query_list:
-            qid = q[0]  
+            qid = q[0]
             q_str = q[1]
             query = qp.parse(unicode(q_str))
             with ix.searcher(weighting=w) as searcher:
@@ -48,7 +48,7 @@ class SearchRunner(object):
                     docid = str(hit["docid"])
                     self.output_results(w, qid, docid, rank, sim, run_id)
 
-        print str(w.B) + " finished"
+        print str(w.c) + " finished"
 
 
 
