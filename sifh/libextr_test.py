@@ -7,13 +7,14 @@ from goose import Goose
 
 import nltk
 
-
-path = "./clef_small_sample/" #local path to single desktop file
-#path = "./clef2015-sample/" #local path to desktop files
+path = "./clef_small_sample/"  # local path to single desktop file
+# path = "./clef2015-sample/" #local path to desktop files
 file_list = os.listdir(path)
+
+
 def foo():
     for f in file_list:
-        html = open(path+f, 'r').read()
+        html = open(path + f, 'r').read()
         print_nodes(html)
         g = Goose()
         article = g.extract(raw_html=html)
@@ -26,9 +27,9 @@ def print_nodes(html):
     print text_str
 
 
-
 def main(argv):
     foo()
+
 
 if __name__ == "__main__":
     main(sys.argv)
